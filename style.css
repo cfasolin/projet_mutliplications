@@ -1,0 +1,35 @@
+body {
+    color:antiquewhite;
+    text-align: center;
+    font-family: Calibri;
+    background-color: rgb(44, 44, 44);
+}
+
+h1 {
+    font-size:40px;
+}
+
+#question {
+    color:black;
+    margin: 75px auto; /* Mets des marges en haut et en bas de 100px, et centre le div au milieu */
+    width:200px;
+    border: 2px, solid;
+    padding:10px 50px;
+    background-color: rgb(160, 229, 250);
+    font-size:70px;
+
+}
+
+
+#affichagescore {
+    margin:40px 0;
+    font-size:28px;
+}
+
+#score {
+    color: rgb(255, 0, 0);
+}
+
+#vitesse {
+    color:rgb(247, 181, 1);
+}
