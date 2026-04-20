@@ -1,4 +1,4 @@
-# Multiplication Project
+# Projet Multiplications
 
 Mon premier projet en JavaScript permettant de s’entraîner aux tables de multiplication de manière interactive.
 
